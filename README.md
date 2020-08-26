@@ -3,6 +3,7 @@
 
 #### 注册地址：
 
+
 1、打开 https://github.com/glados-network/GLaDOS ，找到[<u>***Register***</u>]，打开链接，填写邮箱进行登录。
 
 2、输入激活码`WTPGE-CZYW7-1O7PV-ZC6JY`，进行激活，获得3天试用。
